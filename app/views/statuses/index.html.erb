@@ -1,0 +1,7 @@
+<h1>Hello World</h1>
+<ul>
+  <% @statuses.each do |status| %>
+    <li><%= status.description %>, <%= status.id %><br />
+    <%= link_to "Delete Status", status_path(status), :method => :delete %></li>
+  <% end %>
+</ul>
