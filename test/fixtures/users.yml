@@ -1,9 +1,9 @@
 # Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
 
 one:
-  name: MyString
+  name: Tester One
   description: MyText
 
 two:
-  name: MyString
+  name: Tester Two
   description: MyText
