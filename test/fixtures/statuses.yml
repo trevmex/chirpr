@@ -2,8 +2,8 @@
 
 one:
   description: MyText
-  user: 
+  user_id: 1
 
 two:
   description: MyText
-  user: 
+  user_id: 2
